@@ -2,7 +2,7 @@
 
 A beautiful and intuitive task management application built with React and Tailwind CSS.
 
-![To-Do List App](<img width="1316" height="914" alt="image" src="https://github.com/user-attachments/assets/5c637c13-5711-4e51-a6bb-cdcfc402d746" />)
+<img width="1316" height="914" alt="image" src="https://github.com/user-attachments/assets/5c637c13-5711-4e51-a6bb-cdcfc402d746" />
 
 ## ✨ Features
 
